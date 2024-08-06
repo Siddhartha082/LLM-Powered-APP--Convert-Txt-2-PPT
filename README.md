@@ -1,6 +1,8 @@
 # Gen Slide
 Generating PowerPoint slides extracted from a text.
 
+# Ref - BLOG - https://towardsdatascience.com/how-to-use-llms-to-create-presentation-slides-genslide-a-step-by-step-guide-31f7588ffb5e
+
 ## How to run
 
 ### Set up 
